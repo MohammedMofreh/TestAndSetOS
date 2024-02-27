@@ -1,0 +1,14 @@
+F:\graduation\TestAndSet\TestAndSet\TestAndSet\bin\Debug\net7.0\TestAndSet.exe
+F:\graduation\TestAndSet\TestAndSet\TestAndSet\bin\Debug\net7.0\TestAndSet.deps.json
+F:\graduation\TestAndSet\TestAndSet\TestAndSet\bin\Debug\net7.0\TestAndSet.runtimeconfig.json
+F:\graduation\TestAndSet\TestAndSet\TestAndSet\bin\Debug\net7.0\TestAndSet.dll
+F:\graduation\TestAndSet\TestAndSet\TestAndSet\bin\Debug\net7.0\TestAndSet.pdb
+F:\graduation\TestAndSet\TestAndSet\TestAndSet\obj\Debug\net7.0\TestAndSet.GeneratedMSBuildEditorConfig.editorconfig
+F:\graduation\TestAndSet\TestAndSet\TestAndSet\obj\Debug\net7.0\TestAndSet.AssemblyInfoInputs.cache
+F:\graduation\TestAndSet\TestAndSet\TestAndSet\obj\Debug\net7.0\TestAndSet.AssemblyInfo.cs
+F:\graduation\TestAndSet\TestAndSet\TestAndSet\obj\Debug\net7.0\TestAndSet.csproj.CoreCompileInputs.cache
+F:\graduation\TestAndSet\TestAndSet\TestAndSet\obj\Debug\net7.0\TestAndSet.dll
+F:\graduation\TestAndSet\TestAndSet\TestAndSet\obj\Debug\net7.0\refint\TestAndSet.dll
+F:\graduation\TestAndSet\TestAndSet\TestAndSet\obj\Debug\net7.0\TestAndSet.pdb
+F:\graduation\TestAndSet\TestAndSet\TestAndSet\obj\Debug\net7.0\TestAndSet.genruntimeconfig.cache
+F:\graduation\TestAndSet\TestAndSet\TestAndSet\obj\Debug\net7.0\ref\TestAndSet.dll
